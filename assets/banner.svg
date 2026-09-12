@@ -19,21 +19,19 @@
   <rect width="1200" height="360" fill="#070b14"/>
   <rect width="1200" height="360" fill="url(#glow)"/>
 
-  <!-- subtle grid -->
   <g opacity="0.08" stroke="#8eb6ff" stroke-width="1">
     <path d="M0 60h1200M0 120h1200M0 180h1200M0 240h1200M0 300h1200"/>
     <path d="M120 0v360M240 0v360M360 0v360M480 0v360M600 0v360M720 0v360M840 0v360M960 0v360M1080 0v360"/>
   </g>
 
-  <!-- badge -->
   <rect x="430" y="72" width="340" height="34" rx="17" fill="#0d1424" stroke="url(#badgeStroke)"/>
   <circle cx="458" cy="89" r="4" fill="#6ea8ff"/>
-  <text x="600" y="94" text-anchor="middle" fill="#9bb8e8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" letter-spacing="2.2">-  "' · WEB DEVELOPER</text>
+  <text x="600" y="94" text-anchor="middle" fill="#9bb8e8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" letter-spacing="2.2">WEB DEVELOPER</text>
 
   <text x="600" y="175" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="72" font-weight="800" letter-spacing="8">RELOKER</text>
-  <text x="600" y="218" text-anchor="middle" fill="#7eb6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600">?>;57=K5 A5@28AK &amp; A09BK</text>
+  <text x="600" y="218" text-anchor="middle" fill="#7eb6ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="28" font-weight="600">useful services &amp; sites</text>
 
   <rect x="420" y="245" width="360" height="2" rx="1" fill="url(#line)"/>
 
-  <text x="600" y="290" text-anchor="middle" fill="#8aa0c2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">re-l.ru · dev.re-l.ru · go-re.ru · i.re-l.ru · meet-hub.ru</text>
+  <text x="600" y="290" text-anchor="middle" fill="#8aa0c2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">re-l.ru Â· dev.re-l.ru Â· go-re.ru Â· i.re-l.ru Â· meet-hub.ru</text>
 </svg>

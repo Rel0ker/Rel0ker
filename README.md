@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Rel0ker � ???-???????????" width="100%"/>
+  <img src="./assets/banner.svg" alt="Rel0ker" width="100%"/>
 
   <br/>
 
@@ -14,23 +14,23 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## ?????? � ? Rel0ker
+## Привет — я Rel0ker
 
-???-??????????? ?? ??????. ????? ???????, ?????????? ????? ? ????????? ??????? ??? ??????? ???? � ? ??????? ?? ????????, ???????? ? ?????? ?????????.
+Веб-разработчик из России. Делаю быстрые, аккуратные сайты и небольшие сервисы без лишнего шума — с фокусом на скорость, удобство и чистый интерфейс.
 
-??????? ?????????? ??? ???????????: ????????, ???? ????? �??? ?????�, ????????? ??? ???????????.
+Работаю официально как самозанятый: договоры, чеки через «Мой налог», прозрачно для бухгалтерии.
 
-### ??????
+### Ссылки
 
 | | |
 | :--- | :--- |
-| **[re-l.ru](https://re-l.ru/)** | ??? ???????? ???????? ? ???????????? |
-| **[dev.re-l.ru](https://dev.re-l.ru/)** | ????????? ? ?????? |
-| **[go-re.ru](https://go-re.ru/)** | ???????? ?????? |
-| **[i.re-l.ru](https://i.re-l.ru/)** | ????? ???? ? ???????? |
-| **[meet-hub.ru](https://meet-hub.ru/)** | ??????? ?????? � MeetHub |
+| **[re-l.ru](https://re-l.ru/)** | Хаб полезных сервисов и инструментов |
+| **[dev.re-l.ru](https://dev.re-l.ru/)** | Портфолио и услуги |
+| **[go-re.ru](https://go-re.ru/)** | Короткие ссылки |
+| **[i.re-l.ru](https://i.re-l.ru/)** | Умные обои с задачами |
+| **[meet-hub.ru](https://meet-hub.ru/)** | События города — MeetHub |
 
-### ????
+### Стек
 
 **Frontend**
 
@@ -48,7 +48,7 @@
 ![Django](https://img.shields.io/badge/Django-0a1020?style=flat-square&logo=django&logoColor=7eb6ff)
 ![PHP](https://img.shields.io/badge/PHP-0a1020?style=flat-square&logo=php&logoColor=7eb6ff)
 
-**???????????**
+**Инструменты**
 
 ![Git](https://img.shields.io/badge/Git-0a1020?style=flat-square&logo=git&logoColor=7eb6ff)
 ![VS Code](https://img.shields.io/badge/VS_Code-0a1020?style=flat-square&logo=visualstudiocode&logoColor=7eb6ff)
@@ -57,11 +57,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## Hello � I'm Rel0ker
+## Hello — I'm Rel0ker
 
 Web developer from Russia. I build fast, clean websites and small tools with a focus on speed, usability, and a quiet interface.
 
-I work officially as a self-employed contractor � contracts, receipts, clear paperwork.
+I work officially as a self-employed contractor — contracts, receipts, clear paperwork.
 
 ### Links
 
@@ -71,15 +71,15 @@ I work officially as a self-employed contractor � contracts, receipts, clear pap
 | **[dev.re-l.ru](https://dev.re-l.ru/)** | Portfolio & services |
 | **[go-re.ru](https://go-re.ru/)** | Link shortener |
 | **[i.re-l.ru](https://i.re-l.ru/)** | Smart wallpapers with tasks |
-| **[meet-hub.ru](https://meet-hub.ru/)** | City events � MeetHub |
+| **[meet-hub.ru](https://meet-hub.ru/)** | City events — MeetHub |
 
 ### Stack
 
-**Frontend** � HTML5 � CSS3 � JavaScript � Vue.js � Next.js � Tailwind CSS  
+**Frontend** — HTML5 · CSS3 · JavaScript · Vue.js · Next.js · Tailwind CSS  
 
-**Backend** � Node.js � Express � Django � PHP  
+**Backend** — Node.js · Express · Django · PHP  
 
-**Tools** � Git � VS Code � Figma � Photoshop  
+**Tools** — Git · VS Code · Figma · Photoshop  
 
 <br/>
 
@@ -90,6 +90,6 @@ I work officially as a self-employed contractor � contracts, receipts, clear pap
 
   <br/><br/>
 
-  <sub>????? � Contact ? <a href="https://t.me/rel0ker">Telegram</a> � <a href="mailto:rel0ker@ya.ru">Email</a> � <a href="https://dev.re-l.ru/">Portfolio</a></sub>
+  <sub>Связь · Contact → <a href="https://t.me/rel0ker">Telegram</a> · <a href="mailto:rel0ker@ya.ru">Email</a> · <a href="https://dev.re-l.ru/">Portfolio</a></sub>
 
 </div>
