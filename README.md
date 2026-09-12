@@ -22,13 +22,15 @@
 
 ### Ссылки
 
-| | |
-| :--- | :--- |
-| **[re-l.ru](https://re-l.ru/)** | Хаб полезных сервисов и инструментов |
-| **[dev.re-l.ru](https://dev.re-l.ru/)** | Портфолио и услуги |
-| **[go-re.ru](https://go-re.ru/)** | Короткие ссылки |
-| **[i.re-l.ru](https://i.re-l.ru/)** | Умные обои с задачами |
-| **[meet-hub.ru](https://meet-hub.ru/)** | События города — MeetHub |
+<div align="center">
+
+[![re-l.ru](https://img.shields.io/badge/re--l.ru-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=globe&logoColor=7eb6ff)](https://re-l.ru/)
+[![dev.re-l.ru](https://img.shields.io/badge/dev.re--l.ru-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%BE%D0%BB%D0%B8%D0%BE-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=vercel&logoColor=7eb6ff)](https://dev.re-l.ru/)
+[![go-re.ru](https://img.shields.io/badge/go--re.ru-%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=linktree&logoColor=7eb6ff)](https://go-re.ru/)
+[![i.re-l.ru](https://img.shields.io/badge/i.re--l.ru-%D1%83%D0%BC%D0%BD%D1%8B%D0%B5_%D0%BE%D0%B1%D0%BE%D0%B8-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=apple&logoColor=7eb6ff)](https://i.re-l.ru/)
+[![meet-hub.ru](https://img.shields.io/badge/meet--hub.ru-%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=calendar&logoColor=7eb6ff)](https://meet-hub.ru/)
+
+</div>
 
 ### Стек
 
@@ -65,13 +67,15 @@ I work officially as a self-employed contractor — contracts, receipts, clear p
 
 ### Links
 
-| | |
-| :--- | :--- |
-| **[re-l.ru](https://re-l.ru/)** | Hub of useful services & tools |
-| **[dev.re-l.ru](https://dev.re-l.ru/)** | Portfolio & services |
-| **[go-re.ru](https://go-re.ru/)** | Link shortener |
-| **[i.re-l.ru](https://i.re-l.ru/)** | Smart wallpapers with tasks |
-| **[meet-hub.ru](https://meet-hub.ru/)** | City events — MeetHub |
+<div align="center">
+
+[![re-l.ru](https://img.shields.io/badge/re--l.ru-services-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=globe&logoColor=7eb6ff)](https://re-l.ru/)
+[![dev.re-l.ru](https://img.shields.io/badge/dev.re--l.ru-portfolio-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=vercel&logoColor=7eb6ff)](https://dev.re-l.ru/)
+[![go-re.ru](https://img.shields.io/badge/go--re.ru-short_links-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=linktree&logoColor=7eb6ff)](https://go-re.ru/)
+[![i.re-l.ru](https://img.shields.io/badge/i.re--l.ru-wallpapers-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=apple&logoColor=7eb6ff)](https://i.re-l.ru/)
+[![meet-hub.ru](https://img.shields.io/badge/meet--hub.ru-events-0d1424?style=for-the-badge&labelColor=0a1020&color=12203a&logo=calendar&logoColor=7eb6ff)](https://meet-hub.ru/)
+
+</div>
 
 ### Stack
 
