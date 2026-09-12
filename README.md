@@ -85,8 +85,16 @@ I work officially as a self-employed contractor — contracts, receipts, clear p
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rel0ker&show_icons=true&theme=transparent&hide_border=true&title_color=7eb6ff&icon_color=7eb6ff&text_color=c8d6f0&bg_color=070b14" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rel0ker&layout=compact&theme=transparent&hide_border=true&title_color=7eb6ff&text_color=c8d6f0&bg_color=070b14" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rel0ker&show_icons=true&hide_border=true&title_color=7eb6ff&icon_color=7eb6ff&text_color=c8d6f0&bg_color=070b14" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rel0ker&layout=compact&hide_border=true&title_color=7eb6ff&text_color=c8d6f0&bg_color=070b14" height="165" alt="Top languages"/>
+
+  <br/><br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rel0ker/Rel0ker/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rel0ker/Rel0ker/output/github-snake.svg" />
+    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/Rel0ker/Rel0ker/output/github-snake.svg" />
+  </picture>
 
   <br/><br/>
 
