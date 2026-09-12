@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Rel0ker" width="100%"/>
+  <img src="./assets/banner.jpg" alt="Rel0ker" width="100%"/>
 
   <br/>
 
